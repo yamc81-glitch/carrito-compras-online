@@ -9,3 +9,9 @@
 5. Confirma la compra
 6. Recibe una confirmación del pedido
 
+ ## Roles involucrados
+ 
+- Usuario: navega, agrega productos y compra
+- Sistema: gestiona el carrito y el pedido
+- Administrador: controla productos y pedidos
+
